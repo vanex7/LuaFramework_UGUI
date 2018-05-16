@@ -1,0 +1,10 @@
+*.csproj
+*.sln
+*vs
+*.DS_Store
+*.meta
+Assets/LuaFramework/ToLua/Source/Generate/*.*
+*.manifest
+Library
+Temp
+ProjectSettings/*.*
